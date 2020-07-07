@@ -1,9 +1,7 @@
-MPI ile çalışabilmek için öncelikle MPI iletişim protokolü ile çalışabilen bir kütüphaneye ihtiyaç vardır
-Dev C++ ile MPICH entegrasyonu yapılarak hızlı bir şekilde proje oluşturulabilir.
-Projenin sorunsuz bir şekilde derlenmesi için bazı ayarlar yapılmalıdır. Project
-menüsü altında ki Project Options bölümünde Parameters menüsünde ki linkler bölümüne -lmpi komutu eklenir
-Ardından Directories menüsüne MPICH kütüphaneleri eklenir. Bunun için sırasıyla
-Library Directories ve Include Directories bölümleri eklenmelidir ardından proje derlenip sorunsuz çalıştırılabilir
-
-klasör içerisinde rapor ve örnek sonuçlar vardır
+MPI ile Ã§alÄ±ÅŸabilmek iÃ§in Ã¶ncelikle MPI iletiÅŸim protokolÃ¼ ile Ã§alÄ±ÅŸabilen bir kÃ¼tÃ¼phaneye ihtiyaÃ§ vardÄ±r
+Dev C++ ile MPICH entegrasyonu yapÄ±larak hÄ±zlÄ± bir ÅŸekilde proje oluÅŸturulabilir.
+Projenin sorunsuz bir ÅŸekilde derlenmesi iÃ§in bazÄ± ayarlar yapÄ±lmalÄ±dÄ±r. Project
+menÃ¼sÃ¼ altÄ±nda ki Project Options bÃ¶lÃ¼mÃ¼nde Parameters menÃ¼sÃ¼nde ki linkler bÃ¶lÃ¼mÃ¼ne -lmpi komutu eklenir
+ArdÄ±ndan Directories menÃ¼sÃ¼ne MPICH kÃ¼tÃ¼phaneleri eklenir. Bunun iÃ§in sÄ±rasÄ±yla
+Library Directories ve Include Directories bÃ¶lÃ¼mleri eklenmelidir ardÄ±ndan proje derlenip sorunsuz Ã§alÄ±ÅŸtÄ±rÄ±labilir
  
